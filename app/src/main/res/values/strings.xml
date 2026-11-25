@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nova</string>
+    <!-- Change this if you rename/move the generator. Web edits need no rebuild. -->
+    <string name="app_url">https://perchance.org/ch4c5iwrt8</string>
+</resources>
